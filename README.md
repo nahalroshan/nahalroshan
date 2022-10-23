@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nahal Roshan k</h1>
 <h3 align="center">A Dedicated Full Stack Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2db53b882360e0a561101fdaf0c7e6be355ae91cd1d53d7d47577cfba9a229d8/68747470733a2f2f73696d706c657061737369766563617368666c6f772e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f31312f576f726b2d46756e2e676966">
+<img align="right" alt="Coding" width="400" border-radius: 45px src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahalroshan&label=Profile%20views&color=0e75b6&style=flat" alt="nahalroshan" /> </p>
 
