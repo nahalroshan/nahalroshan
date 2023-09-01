@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Nahal Roshan k</h1>
-<h3 align="center">Flutter | MERN </h3>
+<h1 align="center">Hi , I'm Nahal Roshan k</h1>
+<h3 align="center">Full Stack Developer </h3>
 <img align="right" alt="Coding" width="400" border-radius: 45px src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahalroshan&label=Profile%20views&color=0e75b6&style=flat" alt="nahalroshan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nahalroshan5" target="blank"><img src="https://img.shields.io/twitter/follow/nahalroshan5?logo=twitter&style=for-the-badge" alt="nahalroshan5" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter Development**
+- 🌱 I’m currently learning **Mobile App Development**
 
 - 👯 I’m looking forward to work with **Web/Mobile App Projects**
 
