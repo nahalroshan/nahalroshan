@@ -1,6 +1,5 @@
-# 💫 About Me:
-Hi , I'm Nahal Roshan k<br>Web Developer | Android App Developer<br>🔭 I’m currently working on MERN Stack<br>👯 I’m looking to collaborate on Web/Mobile App Projects<br>💬 Ask me about Web and App Development<br>⚡ Fun facts:There are many!!
-
+# Hi , I am Nahal Roshan:
+Web Developer | Tech fanatic🔭 I’m currently working on MERN Stack<br>👯 I’m looking to collaborate on MERN Projects<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nahalroshann) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nahalroshan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nahalroshan5) 
